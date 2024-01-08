@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 <h2 tabindex="-1" dir="auto"><a id="user-content--about-the-project" class="anchor" aria-hidden="true" tabindex="-1" href="#about-the-project">🔭 About The Project 🔭</h2>
 
-Aplicação desenvolvida com o objetivo de demonstrar a estrturação em alto nivel de um codigo front-end utilizando como base o JavaScript puro.
+Aplicação desenvolvida com o objetivo de utilizar estruturação em alto nivel de um codigo front-end usando como base o JavaScript puro.
 
 <h2 tabindex="-1" dir="auto"><a id="user-content--built-with" class="anchor" aria-hidden="true" tabindex="-1" href="#-built-with">🔧 Built With 🔧</h2>
 
