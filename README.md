@@ -12,6 +12,8 @@ Aplicação desenvolvida com o objetivo de demonstrar a estrturação em alto ni
 [![Javascript][Javascript.com]][Javascript-url]
 [![Html][Html.org]][Html-url]
 [![Css][Css.org]][Css-url]
+[![sass][sass.com]][sass-url]
+[![bootstrap][bootstrap.com]][bootstrap-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -23,3 +25,9 @@ Aplicação desenvolvida com o objetivo de demonstrar a estrturação em alto ni
 
 [Css.org]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [Css-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+[sass.com]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[sass-url]: https://sass-lang.com/
+
+[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[bootstrap-url]: https://getbootstrap.com/
